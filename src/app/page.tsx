@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1 className="text-3xl font-bold text-yellow underline">
+      <h1 className="underline">
         Hello world!
       </h1>
     </main>
