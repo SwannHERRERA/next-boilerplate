@@ -1,4 +1,4 @@
-import { Menu } from "@/components/menu";
+import { Menu } from "@/components/organisms/menu";
 
 export default function Home() {
   return (
